@@ -1,23 +1,15 @@
-###❤️‍🔥알고리즘이 좋은 개발자 연수❤️‍🔥
+<div align="center">
+  <h3>❤️‍🔥알고리즘이 좋은 개발자 연수❤️‍🔥</h3>
 
 # algorithm
 내가 푼 알고리즘 문제
-# kim-yunsoo
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doradorav)](https://solved.ac/doradorav/)
 
-<img width="728" alt="스크린샷 2022-11-27 오후 3 19 39" src="https://user-images.githubusercontent.com/68580993/204122113-389c5791-cfb3-441f-98ea-7ee3549d3b42.png">
 
-<!--
-**dorameme/dorameme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>❤️‍🔥 Tech Stack ❤️‍🔥</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cpp)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,git,js,html,css)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,fastapi,jenkins,docker)](https://skillicons.dev)
+ 
