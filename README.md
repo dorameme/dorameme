@@ -2,8 +2,6 @@
   <h3>❤️‍🔥알고리즘이 좋은 개발자 연수❤️‍🔥</h3>
 
 # algorithm
-내가 푼 알고리즘 문제
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doradorav)](https://solved.ac/doradorav/)
 
 
