@@ -9,5 +9,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cpp)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=python,git,js,html,css)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=mysql,fastapi,jenkins,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,jenkins,docker)](https://skillicons.dev)
  
