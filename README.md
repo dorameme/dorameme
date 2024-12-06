@@ -5,6 +5,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doradorav)](https://solved.ac/doradorav/)
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/doradorav?theme=dark&font=Assistant&ext=heatmap)
+
 <h3>❤️‍🔥 Tech Stack ❤️‍🔥</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,cpp)](https://skillicons.dev)  
